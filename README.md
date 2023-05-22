@@ -1,1 +1,1 @@
-# Projekt2_AI
+# Projekt1__AI
